@@ -1,3 +1,6 @@
 # Logo de YouTube
-Hecho con CSS y HTML
+- Tecnologías usadas:
+  - HTML
+  - CSS
+
 ![Logo](/img/logo.png)

@@ -1,0 +1,41 @@
+body {
+  background-color: #202020;
+  height:100vh;
+  overflow: hidden;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.all {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: "Roboto", sans-serif;
+}
+
+.logo {
+  height: 100px;
+  background-color: #ff0000;
+  width: 150px;
+  border-radius: 10% / 30%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+
+
+.logo span {
+  width: 0;
+  height: 0;
+  border-style: solid;
+  border-width: 20px 0 20px 40px;
+  border-color: transparent transparent transparent #ffffff;
+}
+
+.letras {
+  margin-left: 15px;
+  color: #ffffff;
+  font-size: 90px;
+  letter-spacing: -1px;
+}

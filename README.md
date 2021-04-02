@@ -2,4 +2,4 @@
 
 Hecho con CSS y HTML
 
-![Logo](img/logo.png)
+![Logo](./img/logo.png)
